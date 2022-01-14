@@ -7,3 +7,5 @@ The main aim of this project is to translate an audio file from english to eithe
 First the english audio file is analyzed and it is converted to text.
 Next the english text is converted to any other language.
 Finally the translated text is converted to audio.
+
+Link of project demonstration video: https://drive.google.com/file/d/1ggqBe4dPErb6fnY0WQ74dgPN0R2CT0oD/view?usp=sharing
